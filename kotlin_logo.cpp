@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
     glutInitWindowPosition(470, 150);
     glutInitWindowSize(512, 512);
-    glutCreateWindow("My Window");
+    glutCreateWindow("Kotlin Logo");
 
     glutDisplayFunc(disp);
     glutMainLoop();
